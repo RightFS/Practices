@@ -23,7 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ScoreSort.cpp">
+    <ClCompile Include="001.ScoreSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
