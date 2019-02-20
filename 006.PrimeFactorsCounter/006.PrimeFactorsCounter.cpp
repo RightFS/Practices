@@ -1,5 +1,5 @@
 ﻿// 006.PrimeFactorsCounter.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
-//
+//求正整数N(N>1)的质因数的个数。 相同的质因数需要重复计算。如120=2*2*2*3*5，共有5个质因数。
 
 #include "pch.h"
 #include<iostream>
